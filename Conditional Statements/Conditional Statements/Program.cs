@@ -93,68 +93,68 @@ namespace Conditional_Statements
 
 
 
-           /* float Height;      -----------------------------------------------------------------> exercise 5
+            /* float Height;      -----------------------------------------------------------------> exercise 5
 
-            Console.Write("\n\n");
-            Console.Write("Accept the height of a person in centimeter and categorize them:\n");
-            Console.Write("********************************************************************");
-            Console.Write("\n\n");
+             Console.Write("\n\n");
+             Console.Write("Accept the height of a person in centimeter and categorize them:\n");
+             Console.Write("********************************************************************");
+             Console.Write("\n\n");
 
 
-            Console.Write("Please enter height (in centimeters) :");
-            Height  = Convert.ToInt32(Console.ReadLine());
+             Console.Write("Please enter height (in centimeters) :");
+             Height  = Convert.ToInt32(Console.ReadLine());
 
-            if(Height < 150)
-            {
-                Console.Write("The person is Dwarf .\n\n");
-            }
-            else if((Height >= 150.0) && (Height <= 165.0))
-            {
-                Console.Write("The person is average heighted. \n\n");
-            }
-            else if((Height >= 165.0) && (Height <= 190.0))
-            {
-                Console.Write("The person is taller. \n\n");
-            }
-            else
-            {
-                Console.Write("Abnormal height. \n");
-            }*/
+             if(Height < 150)
+             {
+                 Console.Write("The person is Dwarf .\n\n");
+             }
+             else if((Height >= 150.0) && (Height <= 165.0))
+             {
+                 Console.Write("The person is average heighted. \n\n");
+             }
+             else if((Height >= 165.0) && (Height <= 190.0))
+             {
+                 Console.Write("The person is taller. \n\n");
+             }
+             else
+             {
+                 Console.Write("Abnormal height. \n");
+             }*/
 
 
 
             /*---------------------------------------------------------------------------------------------------------------*/
 
 
-           /* int num1, num2, num3; --------------------------------------------------------------------> exercise 6
+            /* int num1, num2, num3; --------------------------------------------------------------------> exercise 6
 
-            Console.Write("Enter first number : ");
-            num1 = Convert.ToInt32(Console.ReadLine());
+             Console.Write("Enter first number : ");
+             num1 = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("\n\n");
+             Console.Write("\n\n");
 
-            Console.Write("Enter second number : ");
-            num2 = Convert.ToInt32(Console.ReadLine());
+             Console.Write("Enter second number : ");
+             num2 = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("\n\n");
+             Console.Write("\n\n");
 
-            Console.Write("Enter third number : ");
-            num3 = Convert.ToInt32(Console.ReadLine());
+             Console.Write("Enter third number : ");
+             num3 = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("\n\n");
+             Console.Write("\n\n");
 
-            if(num1 > num2 && num1 > num3)
-            {
-                Console.WriteLine("The first number is the greatest among three number.");
-            }
-            else if(num2 > num1 && num2 > num3)
-            {
-                Console.WriteLine("The second number is the greatest amomg three number.");
-            }
-            else
-            {
-                Console.WriteLine("The third number is the greatest among three number. ");
-            }*/
+             if(num1 > num2 && num1 > num3)
+             {
+                 Console.WriteLine("The first number is the greatest among three number.");
+             }
+             else if(num2 > num1 && num2 > num3)
+             {
+                 Console.WriteLine("The second number is the greatest amomg three number.");
+             }
+             else
+             {
+                 Console.WriteLine("The third number is the greatest among three number. ");
+             }*/
 
 
 
@@ -162,7 +162,27 @@ namespace Conditional_Statements
 
 
 
-            //C Q
+           /* Console.Write("1.Kenar : ");     -----------------------------------------------------------------> exercise 7
+            double kenar1 = Convert.ToDouble(Console.ReadLine());
+
+            Console.Write("2.Kenar : ");
+            double kenar2 = Convert.ToDouble(Console.ReadLine());
+
+            Console.Write("3.Kenar : ");
+            double kenar3 = Convert.ToDouble(Console.ReadLine());
+
+
+            var result = (kenar1 == kenar2 && kenar2 == kenar3) ? "Eşkenar üçgen" : (kenar1 == kenar2 || kenar2 == kenar3 || kenar2 == kenar3) ? "İkizkenar üçgen" : "Çeşitkenar üçgen";
+
+            Console.WriteLine(result);*/
+
+
+
+            /*-------------------------------------------------------------------------------------------------------------*/
+
+
+
+
         }
     }
 }
