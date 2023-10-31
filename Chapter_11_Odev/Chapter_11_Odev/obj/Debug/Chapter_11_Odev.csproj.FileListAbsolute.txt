@@ -1,0 +1,7 @@
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Chapter_11_Odev\Chapter_11_Odev\bin\Debug\Chapter_11_Odev.exe.config
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Chapter_11_Odev\Chapter_11_Odev\bin\Debug\Chapter_11_Odev.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Chapter_11_Odev\Chapter_11_Odev\bin\Debug\Chapter_11_Odev.pdb
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Chapter_11_Odev\Chapter_11_Odev\obj\Debug\Chapter_11_Odev.csproj.AssemblyReference.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Chapter_11_Odev\Chapter_11_Odev\obj\Debug\Chapter_11_Odev.csproj.CoreCompileInputs.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Chapter_11_Odev\Chapter_11_Odev\obj\Debug\Chapter_11_Odev.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Chapter_11_Odev\Chapter_11_Odev\obj\Debug\Chapter_11_Odev.pdb

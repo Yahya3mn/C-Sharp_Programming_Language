@@ -1,0 +1,7 @@
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Capter_7_Odev\Capter_7_Odev\bin\Debug\Capter_7_Odev.exe.config
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Capter_7_Odev\Capter_7_Odev\bin\Debug\Capter_7_Odev.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Capter_7_Odev\Capter_7_Odev\bin\Debug\Capter_7_Odev.pdb
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Capter_7_Odev\Capter_7_Odev\obj\Debug\Capter_7_Odev.csproj.AssemblyReference.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Capter_7_Odev\Capter_7_Odev\obj\Debug\Capter_7_Odev.csproj.CoreCompileInputs.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Capter_7_Odev\Capter_7_Odev\obj\Debug\Capter_7_Odev.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Capter_7_Odev\Capter_7_Odev\obj\Debug\Capter_7_Odev.pdb
