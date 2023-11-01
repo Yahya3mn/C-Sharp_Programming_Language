@@ -1,0 +1,7 @@
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Lab_3_3\Lab_3_3\bin\Debug\Lab_3_3.exe.config
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Lab_3_3\Lab_3_3\bin\Debug\Lab_3_3.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Lab_3_3\Lab_3_3\bin\Debug\Lab_3_3.pdb
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Lab_3_3\Lab_3_3\obj\Debug\Lab_3_3.csproj.AssemblyReference.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Lab_3_3\Lab_3_3\obj\Debug\Lab_3_3.csproj.CoreCompileInputs.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Lab_3_3\Lab_3_3\obj\Debug\Lab_3_3.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Lab_3_3\Lab_3_3\obj\Debug\Lab_3_3.pdb
