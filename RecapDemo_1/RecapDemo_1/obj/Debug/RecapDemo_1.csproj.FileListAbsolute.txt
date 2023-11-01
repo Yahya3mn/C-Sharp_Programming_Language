@@ -1,0 +1,10 @@
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\RecapDemo_1\RecapDemo_1\bin\Debug\RecapDemo_1.exe.config
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\RecapDemo_1\RecapDemo_1\bin\Debug\RecapDemo_1.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\RecapDemo_1\RecapDemo_1\bin\Debug\RecapDemo_1.pdb
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\RecapDemo_1\RecapDemo_1\obj\Debug\RecapDemo_1.csproj.AssemblyReference.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\RecapDemo_1\RecapDemo_1\obj\Debug\RecapDemo_1.Form1.resources
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\RecapDemo_1\RecapDemo_1\obj\Debug\RecapDemo_1.Properties.Resources.resources
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\RecapDemo_1\RecapDemo_1\obj\Debug\RecapDemo_1.csproj.GenerateResource.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\RecapDemo_1\RecapDemo_1\obj\Debug\RecapDemo_1.csproj.CoreCompileInputs.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\RecapDemo_1\RecapDemo_1\obj\Debug\RecapDemo_1.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\RecapDemo_1\RecapDemo_1\obj\Debug\RecapDemo_1.pdb
