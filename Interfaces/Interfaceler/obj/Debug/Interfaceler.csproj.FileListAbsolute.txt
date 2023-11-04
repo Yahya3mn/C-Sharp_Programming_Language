@@ -1,0 +1,7 @@
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Interfaces\Interfaceler\bin\Debug\Interfaceler.exe.config
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Interfaces\Interfaceler\bin\Debug\Interfaceler.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Interfaces\Interfaceler\bin\Debug\Interfaceler.pdb
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Interfaces\Interfaceler\obj\Debug\Interfaceler.csproj.AssemblyReference.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Interfaces\Interfaceler\obj\Debug\Interfaceler.csproj.CoreCompileInputs.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Interfaces\Interfaceler\obj\Debug\Interfaceler.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Interfaces\Interfaceler\obj\Debug\Interfaceler.pdb

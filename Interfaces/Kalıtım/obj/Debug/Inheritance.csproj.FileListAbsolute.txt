@@ -1,0 +1,7 @@
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Interfaces\Kalıtım\bin\Debug\Kalıtım.exe.config
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Interfaces\Kalıtım\bin\Debug\Kalıtım.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Interfaces\Kalıtım\bin\Debug\Kalıtım.pdb
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Interfaces\Kalıtım\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Interfaces\Kalıtım\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Interfaces\Kalıtım\obj\Debug\Kalıtım.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Interfaces\Kalıtım\obj\Debug\Kalıtım.pdb

@@ -1,0 +1,7 @@
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\RecapDemos\Recap_Demo_2\bin\Debug\Recap_Demo_2.exe.config
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\RecapDemos\Recap_Demo_2\bin\Debug\Recap_Demo_2.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\RecapDemos\Recap_Demo_2\bin\Debug\Recap_Demo_2.pdb
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\RecapDemos\Recap_Demo_2\obj\Debug\Recap_Demo_2.csproj.AssemblyReference.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\RecapDemos\Recap_Demo_2\obj\Debug\Recap_Demo_2.csproj.CoreCompileInputs.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\RecapDemos\Recap_Demo_2\obj\Debug\Recap_Demo_2.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\RecapDemos\Recap_Demo_2\obj\Debug\Recap_Demo_2.pdb
