@@ -1,0 +1,7 @@
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Collections\Koleksiyonlar\bin\Debug\Koleksiyonlar.exe.config
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Collections\Koleksiyonlar\bin\Debug\Koleksiyonlar.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Collections\Koleksiyonlar\bin\Debug\Koleksiyonlar.pdb
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Collections\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Collections\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Collections\Koleksiyonlar\obj\Debug\Koleksiyonlar.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Collections\Koleksiyonlar\obj\Debug\Koleksiyonlar.pdb
