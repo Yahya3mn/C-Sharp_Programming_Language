@@ -1,0 +1,7 @@
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Calisanlar\Calisanlar\bin\Debug\Calisanlar.exe.config
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Calisanlar\Calisanlar\bin\Debug\Calisanlar.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Calisanlar\Calisanlar\bin\Debug\Calisanlar.pdb
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Calisanlar\Calisanlar\obj\Debug\Calisanlar.csproj.AssemblyReference.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Calisanlar\Calisanlar\obj\Debug\Calisanlar.csproj.CoreCompileInputs.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Calisanlar\Calisanlar\obj\Debug\Calisanlar.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Calisanlar\Calisanlar\obj\Debug\Calisanlar.pdb
