@@ -1,0 +1,7 @@
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Eligible_Course\Eligible_Course\bin\Debug\Eligible_Course.exe.config
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Eligible_Course\Eligible_Course\bin\Debug\Eligible_Course.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Eligible_Course\Eligible_Course\bin\Debug\Eligible_Course.pdb
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Eligible_Course\Eligible_Course\obj\Debug\Eligible_Course.csproj.AssemblyReference.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Eligible_Course\Eligible_Course\obj\Debug\Eligible_Course.csproj.CoreCompileInputs.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Eligible_Course\Eligible_Course\obj\Debug\Eligible_Course.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\Eligible_Course\Eligible_Course\obj\Debug\Eligible_Course.pdb

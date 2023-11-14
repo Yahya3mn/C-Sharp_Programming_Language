@@ -1,0 +1,7 @@
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\TC_KIMLIK\TC_KIMLIK\bin\Debug\TC_KIMLIK.exe.config
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\TC_KIMLIK\TC_KIMLIK\bin\Debug\TC_KIMLIK.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\TC_KIMLIK\TC_KIMLIK\bin\Debug\TC_KIMLIK.pdb
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\TC_KIMLIK\TC_KIMLIK\obj\Debug\TC_KIMLIK.csproj.AssemblyReference.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\TC_KIMLIK\TC_KIMLIK\obj\Debug\TC_KIMLIK.csproj.CoreCompileInputs.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\TC_KIMLIK\TC_KIMLIK\obj\Debug\TC_KIMLIK.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\TC_KIMLIK\TC_KIMLIK\obj\Debug\TC_KIMLIK.pdb

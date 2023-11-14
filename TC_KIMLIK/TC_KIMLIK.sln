@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TC_KIMLIK", "TC_KIMLIK\TC_KIMLIK.csproj", "{608729B9-71A5-4EC9-844D-AAED3B41B2CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{608729B9-71A5-4EC9-844D-AAED3B41B2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{608729B9-71A5-4EC9-844D-AAED3B41B2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{608729B9-71A5-4EC9-844D-AAED3B41B2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{608729B9-71A5-4EC9-844D-AAED3B41B2CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AEE5EF2-ACBA-46C3-80B4-A031D8DB4A13}
+	EndGlobalSection
+EndGlobal
