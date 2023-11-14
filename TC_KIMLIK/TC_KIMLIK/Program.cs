@@ -12,7 +12,7 @@ namespace TC_KIMLIK
         {
             PEersonel p = new PEersonel();
 
-            p.TCKimliKNO = "99758793838";
+            p.TCKimliKNO = "12345678912";
             Console.WriteLine("TC Kimlik no : " +  p.TCKimliKNO);
         }
     }
