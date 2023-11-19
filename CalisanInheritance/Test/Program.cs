@@ -10,6 +10,10 @@ namespace Test
     {
         static void Main(string[] args)
         {
+            Yonetici yonetici1 = new Yonetici("Mustafa Murat Coşkun", 2500, "IT", 10);
+            yonetici1.BilgileriGoster();
+            yonetici1.zam_yap(200);
+        }
         }
     }
-}
+
