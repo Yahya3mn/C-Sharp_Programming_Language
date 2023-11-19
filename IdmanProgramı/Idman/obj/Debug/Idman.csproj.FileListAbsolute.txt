@@ -1,0 +1,7 @@
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\IdmanProgramı\Idman\bin\Debug\Idman.exe.config
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\IdmanProgramı\Idman\bin\Debug\Idman.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\IdmanProgramı\Idman\bin\Debug\Idman.pdb
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\IdmanProgramı\Idman\obj\Debug\Idman.csproj.AssemblyReference.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\IdmanProgramı\Idman\obj\Debug\Idman.csproj.CoreCompileInputs.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\IdmanProgramı\Idman\obj\Debug\Idman.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\IdmanProgramı\Idman\obj\Debug\Idman.pdb
