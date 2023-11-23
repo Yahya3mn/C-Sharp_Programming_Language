@@ -1,0 +1,15 @@
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\PastAndFuture\PastAndFuture\bin\Debug\net8.0\PastAndFuture.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\PastAndFuture\PastAndFuture\bin\Debug\net8.0\PastAndFuture.deps.json
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\PastAndFuture\PastAndFuture\bin\Debug\net8.0\PastAndFuture.runtimeconfig.json
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\PastAndFuture\PastAndFuture\bin\Debug\net8.0\PastAndFuture.dll
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\PastAndFuture\PastAndFuture\bin\Debug\net8.0\PastAndFuture.pdb
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\PastAndFuture\PastAndFuture\obj\Debug\net8.0\PastAndFuture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\PastAndFuture\PastAndFuture\obj\Debug\net8.0\PastAndFuture.AssemblyInfoInputs.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\PastAndFuture\PastAndFuture\obj\Debug\net8.0\PastAndFuture.AssemblyInfo.cs
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\PastAndFuture\PastAndFuture\obj\Debug\net8.0\PastAndFuture.csproj.CoreCompileInputs.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\PastAndFuture\PastAndFuture\obj\Debug\net8.0\PastAndFuture.sourcelink.json
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\PastAndFuture\PastAndFuture\obj\Debug\net8.0\PastAndFuture.dll
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\PastAndFuture\PastAndFuture\obj\Debug\net8.0\refint\PastAndFuture.dll
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\PastAndFuture\PastAndFuture\obj\Debug\net8.0\PastAndFuture.pdb
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\PastAndFuture\PastAndFuture\obj\Debug\net8.0\PastAndFuture.genruntimeconfig.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\PastAndFuture\PastAndFuture\obj\Debug\net8.0\ref\PastAndFuture.dll

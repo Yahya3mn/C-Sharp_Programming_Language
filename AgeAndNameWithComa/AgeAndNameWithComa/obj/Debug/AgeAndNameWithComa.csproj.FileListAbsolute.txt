@@ -1,0 +1,12 @@
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\AgeAndNameWithComa\AgeAndNameWithComa\bin\Debug\AgeAndNameWithComa.exe.config
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\AgeAndNameWithComa\AgeAndNameWithComa\bin\Debug\AgeAndNameWithComa.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\AgeAndNameWithComa\AgeAndNameWithComa\bin\Debug\AgeAndNameWithComa.pdb
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\AgeAndNameWithComa\AgeAndNameWithComa\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\AgeAndNameWithComa\AgeAndNameWithComa\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\AgeAndNameWithComa\AgeAndNameWithComa\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\AgeAndNameWithComa\AgeAndNameWithComa\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\AgeAndNameWithComa\AgeAndNameWithComa\obj\Debug\AgeAndNameWithComa.csproj.AssemblyReference.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\AgeAndNameWithComa\AgeAndNameWithComa\obj\Debug\AgeAndNameWithComa.csproj.CoreCompileInputs.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\AgeAndNameWithComa\AgeAndNameWithComa\obj\Debug\AgeAndNameWithComa.csproj.CopyComplete
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\AgeAndNameWithComa\AgeAndNameWithComa\obj\Debug\AgeAndNameWithComa.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\AgeAndNameWithComa\AgeAndNameWithComa\obj\Debug\AgeAndNameWithComa.pdb

@@ -1,0 +1,7 @@
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\CalismaSorulari\EligibleForVote\bin\Debug\EligibleForVote.exe.config
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\CalismaSorulari\EligibleForVote\bin\Debug\EligibleForVote.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\CalismaSorulari\EligibleForVote\bin\Debug\EligibleForVote.pdb
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\CalismaSorulari\EligibleForVote\obj\Debug\EligibleForVote.csproj.AssemblyReference.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\CalismaSorulari\EligibleForVote\obj\Debug\EligibleForVote.csproj.CoreCompileInputs.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\CalismaSorulari\EligibleForVote\obj\Debug\EligibleForVote.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\CalismaSorulari\EligibleForVote\obj\Debug\EligibleForVote.pdb

@@ -1,0 +1,7 @@
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\CalismaSorulari\isLeap\bin\Debug\isLeap.exe.config
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\CalismaSorulari\isLeap\bin\Debug\isLeap.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\CalismaSorulari\isLeap\bin\Debug\isLeap.pdb
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\CalismaSorulari\isLeap\obj\Debug\isLeap.csproj.AssemblyReference.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\CalismaSorulari\isLeap\obj\Debug\isLeap.csproj.CoreCompileInputs.cache
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\CalismaSorulari\isLeap\obj\Debug\isLeap.exe
+C:\Users\yahya\Documents\GitHub\C-Sharp_Programming_Language\CalismaSorulari\isLeap\obj\Debug\isLeap.pdb
